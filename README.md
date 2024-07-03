@@ -1,11 +1,7 @@
-Waterfall
+WaterfallSE
 =========
 
-> [!CAUTION]
-> This project has reached end of life and is no longer maintained.  
-> We recommend you transition to [Velocity](https://papermc.io/software/velocity). For more information, see the [announcement](https://forums.papermc.io/threads/1088/).
-
-Waterfall is a fork of the well-known [BungeeCord](https://github.com/SpigotMC/BungeeCord) server teleportation suite.
+WaterfallSE is a fork of the well-known [Waterfall](https://github.com/papermc/waterfall), which itself is a fork of the well-known [BungeeCord](https://github.com/SpigotMC/BungeeCord) server teleportation suite.
 
 Waterfall focuses on three main areas:
 
