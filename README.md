@@ -71,11 +71,5 @@ Clone this repo, run `./waterfall b` from *bash*, get jar from Waterfall-Proxy/b
 ## Join us
 
 * Feel free to open a PR! We accept contributions.
-* Join us on [Discord](https://discord.gg/papermc).
-* Visit our forums (https://forums.papermc.io/).
-
-## Special Thanks To
-
-![YourKit-Logo](https://yourkit.com/images/yklogo.png)
-
-[YourKit](https://yourkit.com/), makers of the outstanding Java profiler, supports open source projects of all kinds with their full-featured [Java](https://yourkit.com/features/) and [.NET](https://yourkit.com/dotnet/features/) application profilers. We thank them for granting Waterfall an OSS license so that we can make our software the best it can be.
+* Join us on [Discord](https://discord.foxtanium.com).
+* Visit our forums (https://forums.foxtanium.com/).
